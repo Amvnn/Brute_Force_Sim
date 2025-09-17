@@ -45,7 +45,7 @@ python main_demo.py --continuous
 
 ##  Demo Preview
 <details>
-<summary>📺 Click to expand simulation output</summary>
+<summary> Click to expand simulation output</summary>
 
 ```
  Cracking secret: 'xk9'
